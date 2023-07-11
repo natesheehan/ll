@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Loose Lips</title>
+	<meta name="description" content="A simple HTML5 Template for new projects.">
+	<meta name="author" content="Loose Lips">
+	<meta property="og:image" content="http://loose-lips.co.uk/img/logo/logo_x250.jpg">
+	<meta property="og:site_name" content="Loose Lips">
+
+	<link rel="icon" type="image/png" href="http://loose-lips.co.uk/img/logo/logo_x16.jpg">
+	<link rel="stylesheet" href="dist/css/loose-lips.css">
+
+</head>
+
+<body>
+	<div class="site-wrapper">
+		<main>
+			<section class="banner">
+				<div class="container container--small banner__container">
+					<!-- <a class="banner__link triangle triangle--top" href="#">Archives</a> -->
+					<div class="banner__special_image-wrap">
+						<img src="img/DIDO_WEB.jpg" alt="Day In Day Out">
+					</div>
+					<div class="video__wrap">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/asEvnIJ7GfA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+					</div>
+					<a class="nav banner__link triangle triangle--bottom" href="#text">Carry On</a>
+				</div>
+			</section>
+			<section class="text" id="text">
+				<div class="container text__container">
+					<p>Loose Lips 2.0 is coming soon…</p>
+					<br>
+					<p>Our old website faced some unavoidable depletion issues on our backend,</p>
+					<p>which after a while meant it was time for us to pull the plug on it...</p>
+					<br><br><br>
+					<p>Thanks for all your support over the last 8 years.</p>
+					<br><br><br>
+					<p>WwWhat?! We see you asking.</p>
+					<p>But don’t worry, we're working on a brand new website</p>
+					<p>to fire us into the future, and have our entire website’s history backed up...</p>
+					<p>So, hold tight!</p>
+					<br><br><br>
+					<p>We'll be back before you know it and we’re planning a lot of good stuff for you :)</p>
+					<p>In the meantime, you can browse some of our content on a mini-web below.</p>
+					<br><br><br>
+					<p>With love, the LL team x</p>
+					<a class="nav triangle triangle--bottom" href="#mini-web">To Mini-Web</a>
+				</div>
+			</section>
+			<section class="mini-web" id="mini-web">
+				<div class="container mini-web__container">
+					<div class="mini-web__col">
+						<!-- <iframe src="https://beacons.ai/looselipsmusic"></iframe> -->
+						<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=25322666/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://looselips123.bandcamp.com/album/ll024-e330"></a></iframe>
+						<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1421701660&color=%23060606&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/loose-lips123" title="Loose Lips" target="_blank" style="color: #cccccc; text-decoration: none;"></a><a href="https://soundcloud.com/loose-lips123/loose-lips-mix-series-407-cersy" title="Loose Lips Mix Series - 407 - Cersy" target="_blank" style="color: #cccccc; text-decoration: none;"></a></div>
+					</div>
+					<div class="mini-web__col">
+						<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1417157551&color=%23060606&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/loose-lips123" title="Loose Lips" target="_blank" style="color: #cccccc; text-decoration: none;"></a><a href="https://soundcloud.com/loose-lips123/loose-lips-wyung-will-01-12-22-reform-radio" title="Loose Lips w/Yung Will 01-12-22 (Reform Radio)" target="_blank" style="color: #cccccc; text-decoration: none;"></a></div>
+						<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1417119862&color=%23060606&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/loose-lips123" title="Loose Lips" target="_blank" style="color: #cccccc; text-decoration: none;"></a><a href="https://soundcloud.com/loose-lips123/loose-lips-w-blo-19-05-22-reform-radio" title="Loose Lips w/ b.lo 19-05-22 (Reform Radio)" target="_blank" style="color: #cccccc; text-decoration: none;"></a></div>
+					</div>
+					<div class="mini-web__col">
+						<img class="banner__image" src="img/logo-loose-lips.gif" />
+						<ul class="social-icons">
+							<li>
+								<a href="https://www.youtube.com/channel/UCjGQIIPUXfIi-ahpj79p7jA ">
+									<img src="img/logo-youtube.png" alt="Loose Lips Youtube">
+								</a>
+							</li>
+							<li>
+								<a href="https://www.instagram.com/looselipsevents">
+									<img src="img/logo-insta.png" alt="Loose Lips Instagram">
+								</a>
+							</li>
+							<li>
+								<a href="https://www.twitter.com/looselipsevents ">
+									<img src="img/logo-twitter.png" alt="Loose Lips Twitter">
+								</a>
+							</li>
+							<li>
+								<a href="https://www.facebook.com/looselips123">
+									<img src="img/logo-facebook.png" alt="Loose Lips Facebook">
+								</a>
+							</li>
+							<li>
+								<a href="https://loose-lips.co.uk">
+									<img src="img/logo-archive.png" alt="Loose Lips Archive">
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</section>
+		</main>
+	</div>
+	<script src="dist/js/loose-lips.js"></script>
+</body>
+</html>
